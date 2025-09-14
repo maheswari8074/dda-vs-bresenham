@@ -1,1 +1,1 @@
-# dda-vs-bresenham
+# dda-bresenham-visualizer
